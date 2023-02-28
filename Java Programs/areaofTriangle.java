@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import java.util.Scanner;
-
 public class areaofTriangle{
     public static void main(String args[]){
         double h,b;
