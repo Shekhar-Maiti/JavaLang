@@ -1,0 +1,332 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Stock_price",
+            "request": "launch",
+            "mainClass": "Stock_price",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch array_Assignment",
+            "request": "launch",
+            "mainClass": "array_Assignment",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Trapping_rainwater",
+            "request": "launch",
+            "mainClass": "Trapping_rainwater",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Parallogram",
+            "request": "launch",
+            "mainClass": "Parallogram",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch max_Array_sum_prefix",
+            "request": "launch",
+            "mainClass": "max_Array_sum_prefix",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch subArray",
+            "request": "launch",
+            "mainClass": "subArray",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ascending_array",
+            "request": "launch",
+            "mainClass": "Ascending_array",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pairs_ofnmbr",
+            "request": "launch",
+            "mainClass": "pairs_ofnmbr",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array_reverse",
+            "request": "launch",
+            "mainClass": "Array_reverse",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch binary_search",
+            "request": "launch",
+            "mainClass": "binary_search",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch largest_samllest_nmber",
+            "request": "launch",
+            "mainClass": "largest_samllest_nmber",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch linear_search",
+            "request": "launch",
+            "mainClass": "linear_search",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiamondPattern",
+            "request": "launch",
+            "mainClass": "DiamondPattern",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch rhombus_solid",
+            "request": "launch",
+            "mainClass": "rhombus_solid",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pyramid_01",
+            "request": "launch",
+            "mainClass": "pyramid_01",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pyramid_floyd_pattern",
+            "request": "launch",
+            "mainClass": "pyramid_floyd_pattern",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pyramid_number",
+            "request": "launch",
+            "mainClass": "Pyramid_number",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pyramd_half",
+            "request": "launch",
+            "mainClass": "pyramd_half",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pyrmd_inverted_half",
+            "request": "launch",
+            "mainClass": "Pyrmd_inverted_half",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberPyramid",
+            "request": "launch",
+            "mainClass": "NumberPyramid",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch half_pyramd",
+            "request": "launch",
+            "mainClass": "half_pyramd",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch hollow_rectengale",
+            "request": "launch",
+            "mainClass": "hollow_rectengale",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch butterfly",
+            "request": "launch",
+            "mainClass": "butterfly",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum_of_integer",
+            "request": "launch",
+            "mainClass": "sum_of_integer",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Deci2bin",
+            "request": "launch",
+            "mainClass": "Deci2bin",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary2deci",
+            "request": "launch",
+            "mainClass": "Binary2deci",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime_num",
+            "request": "launch",
+            "mainClass": "Prime_num",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fn_overloading",
+            "request": "launch",
+            "mainClass": "Fn_overloading",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binomial_coef",
+            "request": "launch",
+            "mainClass": "Binomial_coef",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial_fn",
+            "request": "launch",
+            "mainClass": "Factorial_fn",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Product_fn",
+            "request": "launch",
+            "mainClass": "Product_fn",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Char_pyramid",
+            "request": "launch",
+            "mainClass": "Char_pyramid",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pyramidnumber",
+            "request": "launch",
+            "mainClass": "pyramidnumber",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch random",
+            "request": "launch",
+            "mainClass": "random",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch starPyramid",
+            "request": "launch",
+            "mainClass": "starPyramid",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch If_Else",
+            "request": "launch",
+            "mainClass": "If_Else",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Add",
+            "request": "launch",
+            "mainClass": "Add",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch twodArrayBasic",
+            "request": "launch",
+            "mainClass": "twodArrayBasic",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse_String",
+            "request": "launch",
+            "mainClass": "Reverse_String",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sub_string",
+            "request": "launch",
+            "mainClass": "Sub_string",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch demobutterFly",
+            "request": "launch",
+            "mainClass": "demobutterFly",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayHomework",
+            "request": "launch",
+            "mainClass": "ArrayHomework",
+            "projectName": "JavaTutorial_6f1177b8"
+        },
+        {
+            "type": "node-terminal",
+            "name": "JavaScript Debug Terminal",
+            "request": "launch",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
